@@ -20,7 +20,9 @@
 | 👉 Right | → Arrow Right | เลื่อนขวา |
 
 ---
+<img width="352" height="522" alt="Screenshot 2026-04-07 041131" src="https://github.com/user-attachments/assets/980e04ee-d7e1-440d-a891-d1648ad44592" />
 
+---
 ## 🗂️ โครงสร้างโปรเจกต์
 
 ```
